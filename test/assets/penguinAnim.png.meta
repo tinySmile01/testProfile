@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "84d7efaa-367f-4135-bb78-3be63ea75894",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "penguinAnim": {
+      "ver": "1.0.3",
+      "uuid": "9aa696da-6a42-4727-94e2-493fbaa31d87",
+      "rawTextureUuid": "84d7efaa-367f-4135-bb78-3be63ea75894",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 684,
+      "rawWidth": 118,
+      "rawHeight": 684,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

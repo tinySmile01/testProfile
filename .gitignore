@@ -1,0 +1,6 @@
+test/library/*
+test/local/*
+
+test/packages/*
+test/temp/*
+test/build/*
